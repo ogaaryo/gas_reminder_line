@@ -1,0 +1,2 @@
+# gas_reminder_line
+GoogleAppScriptを使用してGoogleSpreadSheetのデータをLineへ通知します
